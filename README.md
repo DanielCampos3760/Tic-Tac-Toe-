@@ -71,5 +71,5 @@ https://react.dev/learn/tutorial-tic-tac-toe
 ---
 
 ## Autor
-**Donovan Yanci Diaz Gonzalez**  
+**Carlos Daniel Campos Rojas**  
 Estudiante
